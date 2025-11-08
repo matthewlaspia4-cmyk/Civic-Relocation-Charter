@@ -6,7 +6,7 @@ _Repository created for public testimony, legal shielding, and sociotechnologica
 
 ---
 
-## 🧭 Purpose
+## Purpose
 
 This repository documents my protective relocation undertaken in response to coordinated coercion, reputational sabotage, and institutional obstruction. It serves as a civic ledger, a public archive, and a call to action for ethical technologists, mutual aid networks, and legal advocates.
 
@@ -14,7 +14,7 @@ I am withholding both my current and future location due to credible threats of 
 
 ---
 
-## 📂 Contents
+## Contents
 
 | File | Description |
 |------|-------------|
@@ -25,7 +25,7 @@ I am withholding both my current and future location due to credible threats of 
 
 ---
 
-## 🛡️ Civic Framing
+## Civic Framing
 
 - **Relocation as Infrastructure**: This move preserves a human's ability to contribute to ethical automation, municipal transparency, and emotional mapping frameworks.
 - **Testimony as Technology**: These documents are not just legal—they are civic code, designed to be forked, adapted, and reused.
@@ -33,7 +33,7 @@ I am withholding both my current and future location due to credible threats of 
 
 ---
 
-## 🤝 How to Support
+## How to Support
 
 - **Witness**: Read, validate, and share these documents across civic and mutual aid networks.
 - **Fork**: Adapt this framework for your own protective relocation or whistleblower shielding.
@@ -41,13 +41,13 @@ I am withholding both my current and future location due to credible threats of 
 
 ---
 
-## 🔐 Ethics and Licensing
+## Ethics and Licensing
 
 This repository is released under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Use it to protect, not to harm. Fork it to build, not to erase.
 
 ---
 
-## 📣 Contact
+## Contact
 
 For secure correspondence, please use the encrypted contact channel listed in the affidavit. Public inquiries may be submitted via GitHub Issues or through mutual aid intermediaries.
 
