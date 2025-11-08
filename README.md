@@ -1,7 +1,7 @@
 # Civic Relocation Charter
 
 **Matthew Laspia**  
-Civic Technologist • Whistleblower • Mutual Aid Steward  
+Civic Technologist • Whistleblower • Mutual Aid Liason  
 _Repository created for public testimony, legal shielding, and sociotechnological continuity._
 
 ---
